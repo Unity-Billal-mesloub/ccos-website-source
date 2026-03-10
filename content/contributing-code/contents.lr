@@ -5,9 +5,9 @@ _template: page-with-toc.html
 title: Contribution Guidelines
 ---
 description: We do all of our development [on
-GitHub](https://github.com/creativecommons/). If you are not familiar with
+GitHub](https://github.com/Unity-Billal-mesloub/). If you are not familiar with
 GitHub or pull requests, [here is an excellent guide to get
-started](https://guides.github.com/activities/hello-world/).
+started](https://docs.github.com/en/get-started/start-your-journey/hello-world/).
 --- <!-- disregard: vim syntax highlighting fix_ -->
 body:
 
@@ -157,6 +157,6 @@ When in doubt, ask a question on [one of our community forums](/community/).
 
 Recurring donations to Creative Commons Open Source can be made via [Sponsor
 @creativecommons on GitHub
-Sponsors](https://github.com/sponsors/creativecommons).
+Sponsors](https://github.com/Unity-Billal-mesloub/ccos-website-source).
 
 Thank you to our [Supporters](/supporters/)!
