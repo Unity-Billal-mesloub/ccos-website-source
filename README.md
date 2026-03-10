@@ -57,7 +57,6 @@ For information on learning and installing the prerequisite technologies for thi
 [found-tech]: https://opensource.creativecommons.org/contributing-code/foundational-tech/
 
 Make sure you have:
-- [pipenv][pipenvdocs]
 - [Node.js][nodejswebsite] **v12+** and [npm][npmdocs] installed.
 
 To install these, execute the following commands:
