@@ -9,7 +9,7 @@ Source for `creativecommons.github.io`
 > [creativecommons/creativecommons.github.io][ccghiorepo] REPOSIOTRY,
 > DIRECTLY**.
 
-[ccghiorepo]: https://github.com/creativecommons/creativecommons.github.io
+[ccghiorepo]: https://github.com/Unity-Billal-mesloub/ccos-website-source
 
 This site is built using [Lektor][lektor]. All changes to
 [opensource.creativecommons.org][ccopensource]
@@ -30,7 +30,7 @@ via lektor (see [Deployment](#deployment), below).
 > behavior to [conduct@creativecommons.org](mailto:conduct@creativecommons.org)
 > per our [reporting guidelines][reporting_guide].
 
-[org-coc]: https://github.com/creativecommons/.github/blob/main/CODE_OF_CONDUCT.md
+[org-coc]: https://github.com/Unity-Billal-mesloub/.github-new/blob/main/CODE_OF_CONDUCT.md
 [code_of_conduct]: https://opensource.creativecommons.org/community/code-of-conduct/
 [reporting_guide]: https://opensource.creativecommons.org/community/code-of-conduct/enforcement/
 
@@ -39,13 +39,13 @@ via lektor (see [Deployment](#deployment), below).
 
 See [`CONTRIBUTING.md`][org-contrib].
 
-[org-contrib]: https://github.com/creativecommons/.github/blob/main/CONTRIBUTING.md
+[org-contrib]: https://github.com/Unity-Billal-mesloub/.github-new/blob/main/CONTRIBUTING.md
 
 - See [Contributors to
   creativecommons/ccos-website-source][contributors] for a
   list of authors and their contributions to this project :blush:
 
-[contributors]: https://github.com/creativecommons/ccos-website-source/graphs/contributors "Contributors to creativecommons/ccos-website-source"
+[contributors]: https://github.com/Unity-Billal-mesloub/ccos-website-source/graphs/contributors "Contributors to creativecommons/ccos-website-source"
 
 
 ## Installation
@@ -85,8 +85,6 @@ To install these, execute the following commands:
 [npmdocs]: https://docs.npmjs.com/
 [homebrew]: https://brew.sh/
 [pipenvinstall]: https://pipenv.pypa.io/en/latest/installation.html
-[nodeinstall]: https://github.com/nodesource/distributions/blob/master/README.md#table-of-contents
-[nodedetailed]: https://github.com/nodesource/distributions/blob/master/README.md#installation-instructions
 
 
 ### Installing Project Requirements
@@ -119,9 +117,6 @@ else fails, try removing the virtual environment and reinstalling:
         ```
         pipenv install --dev --python /opt/homebrew/bin/python3.11
         ```
-
-[pipenverror]: https://github.com/pypa/pipenv/issues/1918
-
 
 ## Development
 
@@ -229,16 +224,6 @@ Here's how the code is structured in the top level of the repository:
   - [lektor/lektor-webpack-support][webpacksupport]: Adds webpack support to
     lektor
 
-[plugins]: https://www.getlektor.com/docs/plugins/
-[atom]: https://github.com/nixjdm/lektor-atom
-[disqus]: https://github.com/lektor/lektor-disqus-comments
-[mdexcerpt]: https://github.com/bancek/lektor-markdown-excerpt
-[md-header]: https://github.com/lektor/lektor-markdown-header-anchors
-[md-highlighter]: https://github.com/lektor/lektor-markdown-highlighter
-[striphtml]: https://github.com/terminal-labs/lektor-strip-html-tags
-[webpacksupport]: https://github.com/lektor/lektor-webpack-support
-
-
 ## Redirects
 
 - `/cc-vocabulary/` to https://cc-vocabulary.netlify.com/
@@ -263,7 +248,7 @@ The following load external data:
 
 [labels-yml]: https://raw.githubusercontent.com/creativecommons/ccos-scripts/main/ccos/norm/labels.yml
 [skills-yml]: https://raw.githubusercontent.com/creativecommons/ccos-scripts/main/ccos/norm/skills.yml
-[gh-creativecommons]: https://github.com/creativecommons/
+[gh-creativecommons]: https://github.com/Unity-Billal-mesloub/
 [octokit]: https://www.npmjs.com/package/octokit
 
 
